@@ -1,0 +1,18 @@
+<svg width="256" height="256" viewBox="0 0 256 256" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="g" x1="80" y1="40" x2="176" y2="200" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#00A3D9"></stop>
+      <stop offset="1" stop-color="#0B1F2A"></stop>
+    </linearGradient>
+  </defs>
+
+  <!-- Droplet -->
+  <path d="M128 24C128 24 72 92 72 140C72 179.8 97.8 208 128 208C158.2 208 184 179.8 184 140C184 92 128 24 128 24Z" fill="url(#g)"></path>
+
+  <!-- Root lines -->
+  <path d="M128 112V224" stroke="#FFFFFF" stroke-width="10" stroke-linecap="round"></path>
+  <path d="M128 168C112 176 104 188 96 204" stroke="#FFFFFF" stroke-width="10" stroke-linecap="round"></path>
+  <path d="M128 168C144 176 152 188 160 204" stroke="#FFFFFF" stroke-width="10" stroke-linecap="round"></path>
+  <path d="M128 196C120 200 116 206 112 220" stroke="#FFFFFF" stroke-width="10" stroke-linecap="round"></path>
+  <path d="M128 196C136 200 140 206 144 220" stroke="#FFFFFF" stroke-width="10" stroke-linecap="round"></path>
+</svg>
